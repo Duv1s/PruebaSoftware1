@@ -13,7 +13,7 @@ public class Run {
 		System.out.println(subject.subtract(8, 5));
 		
 		System.out.println("");
-		System.out.println("Method Add");
+		System.out.println("Method Add create by A2G");
 		System.out.println("The add is: "+subject.addNumber(7, 3));
 	}
 }

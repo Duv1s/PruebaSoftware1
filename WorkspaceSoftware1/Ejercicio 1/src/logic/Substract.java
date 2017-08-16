@@ -16,6 +16,7 @@ public class Substract {
 	
 	
 	/**
+	 * @author A2G
 	 * Method to add two numbers 
 	 */
 	

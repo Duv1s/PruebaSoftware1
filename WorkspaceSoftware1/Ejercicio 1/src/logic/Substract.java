@@ -14,5 +14,13 @@ public class Substract {
 		return num1-num2;
 	}
 	
+	
+	/**
+	 * Method to add two numbers 
+	 */
+	
+	public int addNumber(int number_A, int numeber_B ) {
+		return number_A + numeber_B;
+	}
 
 }
